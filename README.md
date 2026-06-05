@@ -1,4 +1,4 @@
-# Tarea 3.0 - Automatización de CI/CD con GitHub Actions y Docker
+# Tarea 3.0 - Automatización de CI/CD con GitHub Actions, Docker y Flask
 
 ## Información del Proyecto
 
